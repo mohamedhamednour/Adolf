@@ -1,0 +1,93 @@
+<section class="our-workk ">
+    <div class="container">
+        <div class="row adjust justify-content-center">
+                                    <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%85">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155542396454465.jpg" class="work-thumnail" alt="تطبيق بنك الدم">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق بنك الدم</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                        <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%88%D8%A7%D9%86-%D9%84%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155542419273790.jpg" class="work-thumnail" alt="تطبيق وان للدفع الإلكتروني">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق وان للدفع الإلكتروني</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                        <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%86%D8%B3%D8%B1-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155542386880920.jpg" class="work-thumnail" alt="موقع النسر للمواد الغذائية">
+                        <div class="card-body">
+                            <p class="card-text">موقع النسر للمواد الغذائية</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                    <div class="clearfix"></div>
+                                        <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B5%D8%A7%D9%84%D8%AD">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155654724024731.jpg" class="work-thumnail" alt="تطبيق صالح">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق صالح</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                        <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D8%B5%D8%B1%D9%88%D9%81%D9%8A">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155654716782841.jpg" class="work-thumnail" alt="تطبيق مصروفي">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق مصروفي</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                        <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%86%D8%AC%D8%B2">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155654731222834.jpg" class="work-thumnail" alt="تطبيق انجز">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق انجز</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                                    <div class="clearfix"></div>
+                                    </div>
+        <div class="align">
+            <a class="one" href="http://www.ipda3.com/projects">
+                <button class="btn watch-more hvr-bob">شاهد كل أعمالنا</button>
+            </a>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="our-workk ">
+    <div class="container">
+        <div class="row adjust justify-content-center">
+                                    <div class="col-md-4">
+                <a href="http://www.ipda3.com/project/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AF%D9%85">
+                    <div class="card card-shadow wow fadeIn" style="width: 18rem; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;" data-wow-duration="1s" data-wow-delay=".5s">
+                        <img src="http://www.ipda3.com/uploads/projects/thumbnails/155542396454465.jpg" class="work-thumnail" alt="تطبيق بنك الدم">
+                        <div class="card-body">
+                            <p class="card-text">تطبيق بنك الدم</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>>
+        </div>
+            </section>

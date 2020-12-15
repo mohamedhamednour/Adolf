@@ -1,0 +1,58 @@
+<section style="background: url(imgs/bg30-Ar1web.gif);">
+  <div class="container ">
+    <div class="row">
+      <div class="dd">
+  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+ <div class="">
+     <img src="imgs/toready.jpg"  class="gh" alt="">
+    <h6 class="loo">تطبيق توريدي</h6>
+     </div>
+</div>
+      </div>
+      <div class="dd">
+<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+  <div class="">
+      <img src="imgs/elnesr-mockup.jpg"  class="gh   " alt="">
+     <P style="text-align: center;">تطبيق العاب </P>
+      </div>
+ </div>
+</div>
+<div class="dd">
+ <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+  <div class="">
+      <img src="imgs/msrofy.jpg"  class="gh  " alt="">
+     
+      </div>
+ </div>
+</div>
+<div class="dd">
+ <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+  <div class="">
+      <img src="imgs/blood-bank.jpg"  class="gh  " alt="">
+     
+      </div>
+ </div>
+</div>
+<div class="dd">
+  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+   <div class="">
+       <img src="imgs/mansor.jpg"  class="gh  " alt="">
+      
+       </div>
+  </div>
+ </div>
+ <div class="dd">
+  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+   <div class="">
+       <img src="imgs/3dl.jpg"  class="gh  " alt="">
+      
+       </div>
+  </div>
+ </div>
+<a href="file:///D:/trining%20abda3%20te2/index3.html" class=""><button class="aaq"><P>شاهد كل اعمالنا </P></button></a>
+ 
+ 
+ </div>
+</div>
+
+</section>
